@@ -1,6 +1,7 @@
 # Misc-ML-Projects
 
 PADL:
+  
   1a) Ridge regression model trained with polynomial features
   1b) Linear and Lasso regression compared on R^2
   1c) Linear regression with polynomial feature expansion
