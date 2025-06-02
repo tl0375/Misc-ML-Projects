@@ -20,3 +20,5 @@ PADL:
   6a) Neural network image encoder and decoder for reconstructing images, uses a hybrid MSE and SSIM loss function to improve accuracy.
 
 More detailed explanations for each part of this file can be found within the file.
+
+FlowersCNNModel: A Convolutional Neural Network used for images classification on the Flowers102 dataset.
