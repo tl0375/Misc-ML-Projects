@@ -13,10 +13,10 @@ PADL:
   3a) Loads data and trains a word2vec skipgram model, giving similarity scores for the target node
   3b) Writes each node to a text file, in order of their similarity to the original target node
 
-  4) Multi-Layer-Perceptron that predicts Waist Circumference using other anthropic measurements. Uses a variety of feature engineering methods, before selecting the best features via LassoCV.
+  4a) Multi-Layer-Perceptron that predicts Waist Circumference using other anthropic measurements. Uses a variety of feature engineering methods, before selecting the best features via LassoCV.
 
-  5) Convolutional Neural Network that performs image classification on images of garments (clothes). Makes use of Squeeze and Excitation blocks to help with regularisation.
+  5a) Convolutional Neural Network that performs image classification on images of garments (clothes). Makes use of Squeeze and Excitation blocks to help with regularisation.
 
-  6) Neural network image encoder and decoder for reconstructing images, uses a hybrid MSE and SSIM loss function to improve accuracy.
+  6a) Neural network image encoder and decoder for reconstructing images, uses a hybrid MSE and SSIM loss function to improve accuracy.
 
 More detailed explanations for each part of this file can be found within the file.
